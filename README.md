@@ -16,7 +16,7 @@ Fokus utama proyek ini terletak pada **kebenaran metodologi**, seperti penangana
 ## 📊 Sumber Dataset
 Dataset yang digunakan dalam proyek ini adalah **Adult Census Income Dataset**
 * **Karakteristik Data:** Memiliki **48.842 baris data** (*instances*) dan **14 fitur prediktor** dengan tipe data campuran (kategorikal dan integer).
-* **Target Prediksi:** Menentukan apakah pendapatan seseorang melebihi $50.000 per tahun ($>50\text{K}$ USD vs $\le50\text{K}$ USD).
+* **Target Prediksi:** Menentukan apakah pendapatan seseorang melebihi 50.000 per tahun ($>50\text{K}$ USD vs $\le50\text{K}$ USD).
 * **Tautan Resmi Sumber Data:**
   * **UCI ML Repository:** [Adult Dataset - UCI](https://archive.ics.uci.edu/dataset/2/adult)
   * **Kaggle Mirror:** [Adult Census Income - Kaggle](https://www.kaggle.com/datasets/uciml/adult-census-income)
