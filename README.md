@@ -21,3 +21,7 @@ Dataset yang digunakan dalam proyek ini adalah **Adult Census Income Dataset**
   * **UCI ML Repository:** [Adult Dataset - UCI](https://archive.ics.uci.edu/dataset/2/adult)
   * **Kaggle Mirror:** [Adult Census Income - Kaggle](https://www.kaggle.com/datasets/uciml/adult-census-income)
 * **Fitur Utama:** Usia (*age*), tingkat pendidikan (*education*), status pernikahan (*marital-status*), jenis pekerjaan (*occupation*), jam kerja per minggu (*hours-per-week*), dll.
+
+## Cara Menjalankan
+
+## Ringkasan Hasil
