@@ -23,20 +23,17 @@ Dataset yang digunakan dalam proyek ini adalah **Adult Census Income Dataset**
 * **Fitur Utama:** Usia (*age*), tingkat pendidikan (*education*), status pernikahan (*marital-status*), jenis pekerjaan (*occupation*), jam kerja per minggu (*hours-per-week*), dll.
 
 ## Cara Menjalankan
-## 🚀 Cara Menjalankan
-
-[cite_start]Proyek ini dirancang agar dapat dijalankan ulang secara konsisten (*reproducible*)[cite: 24]. Ikuti langkah-langkah berikut untuk mengeksekusi kodingan:
+Proyek ini dirancang agar dapat dijalankan ulang secara konsisten. Ikuti langkah-langkah berikut untuk mengeksekusi kodingan:
 
 ### 1. Instalasi Library
-[cite_start]Pastikan Python sudah terinstal. Buka Command Prompt atau Terminal, lalu instal pustaka yang diperlukan menggunakan file `requirements.txt` dengan perintah:
-```bash
+[cite_start]Pastikan Python sudah terinstal. Buka Command Prompt atau Terminal, lalu instal pustaka yang diperlukan menggunakan file `requirements.txt` dengan perintah: ```bash
 pip install -r requirements.txt
 ### 2. Persiapan Data
 Unduh dataset Adult Census Income.
 ## 3. Menjalankan Kode via Jupyter Notebook
 ## 4. Alternatif via Google Colab
 
-## Ringkasan Hasil
+
 ## 📈 Ringkasan Hasil
 
 ### 1. Temuan Utama EDA & Feature Importance
