@@ -48,8 +48,8 @@ Berikut adalah ringkasan hasil performa dari model-model yang diuji setelah mela
 
 | Algoritma | Accuracy | Precision (>50K) | Recall | F1-Score | ROC-AUC |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Logistic Regression** | *Lihat Notebook* | *Lihat Notebook* | *Lihat Notebook* | *Lihat Notebook* | *Lihat Notebook* |
-| **Random Forest** | *Lihat Notebook* | *Lihat Notebook* | *Lihat Notebook* | *Lihat Notebook* | *Lihat Notebook* |
+| **Logistic Regression** | **0,7698** | **0,52** | **0,76** | **0,61** | **0,849** |
+| **Random Forest** | **0,8364** | **0,65** | **0,70** | **0,67** | **0,892** |
 | **XGBoost Default (Terbaik)** | **85,22%** | **0,68** | **0,73** | **0,70** | **0,9097** |
 
 ### 4. Kesimpulan Model Terbaik
